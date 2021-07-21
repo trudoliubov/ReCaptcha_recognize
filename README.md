@@ -1,7 +1,7 @@
 
 
 
-# **This example test for recognize voice for resolve ReCaptcha from Google.**
+# **This example test for recognize voice ReCaptcha Google.**
 
 This example has a two-way, first is the recognize voice with IBM Watson, second way is a use extension for Chrome the Buster.
 
